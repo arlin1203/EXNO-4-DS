@@ -106,4 +106,4 @@ print("\nData saved to 'Scaled_FeatureSelected_Data.csv'")
 <img width="1410" height="495" alt="Screenshot 2025-10-16 105258" src="https://github.com/user-attachments/assets/ffdfa9f0-a034-4477-af27-7cdbe2991512" />
 
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+     The above code executed sucessfully
